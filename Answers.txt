@@ -1,0 +1,11 @@
+1. github repository link
+
+https://github.com/fahmeedha94/Assignment2.git
+
+2. python output
+
+PS C:\Users\Jawahar\OneDrive\Desktop\Assignment> python hello.py
+Hello, World!
+PS C:\Users\Jawahar\OneDrive\Desktop\Assignment> print("Hello, World!")
+>> 
+
